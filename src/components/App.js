@@ -17,7 +17,7 @@ function App() {
     <div>
       <button onClick={handleShowModal}>Show Modal</button>
       <Modal show={showModal} onClose={handleCloseModal}>
-        <h3>This is the content of the modal.</h3>
+        <p>This is the content of the modal.</p>
       </Modal>
     </div>
   );
