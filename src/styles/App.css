@@ -1,1 +1,15 @@
+ .show-btn,.modal-close{
+   background:rgb(243, 59, 59);
+   color: white; 
+   border:none;
+   padding:6px;
+   border-radius: 4px;
+ }
 
+ .modal{
+margin:20px 0;
+border:2px solid grey;
+padding:16px;
+width:50%;
+ }
+ 
